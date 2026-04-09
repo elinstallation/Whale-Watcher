@@ -2,6 +2,10 @@
 
 A quantitative tool that detects potential institutional accumulation ("whale" activity) in US equities using Effort vs. Result analysis.
 
+## Demo  
+
+
+
 ## How It Works
 
 It flags days where:
