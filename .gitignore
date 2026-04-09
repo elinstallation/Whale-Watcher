@@ -1,0 +1,6 @@
+# Data files
+stock_prices_daily.csv
+
+# Python cache
+__pycache__/
+*.pyc
