@@ -1,6 +1,6 @@
 # Whale Watcher
 
-A quantitative tool that detects potential institutional accumulation ("whale" activity) in US equities using Effort vs. Result analysis — inspired by Wyckoff methodology.
+A quantitative tool that detects potential institutional accumulation ("whale" activity) in US equities using Effort vs. Result analysis.
 
 ## How It Works
 
@@ -8,7 +8,7 @@ It flags days where:
 - **Volume Z-score > 2** — unusually high volume relative to the 30-day rolling average
 - **Daily price range is tight** — below the 30-day average range
 
-This combination suggests large players are absorbing supply without moving price, a classic institutional footprint.
+This combination suggests large players are absorbing supply without moving price.
 
 ## Features
 
