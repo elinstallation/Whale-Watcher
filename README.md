@@ -3,8 +3,7 @@
 A quantitative tool that detects potential institutional accumulation ("whale" activity) in US equities using Effort vs. Result analysis.
 
 ## Demo  
-
-
+https://github.com/user-attachments/assets/90cdcd73-33a9-4348-8071-1c540ef9ba8b
 
 ## How It Works
 
